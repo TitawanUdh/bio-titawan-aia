@@ -33,7 +33,7 @@ export default function MainPage() {
 
       {/* 👇 ย้ายมาไว้ตรงนี้ */}
       <div className="footer-note d-flex justify-content-center">
-        ตัวแทน AIA | มีใบอนุญาต | ดูแลลูกค้ามากกว่า XX คน
+        ตัวแทน AIA | มีใบอนุญาต 
       </div>
 
       {open && (

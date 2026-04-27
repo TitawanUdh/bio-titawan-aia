@@ -43,9 +43,7 @@
 }
 
 /* หน้าหลัก */
-.bg-main {
-  /* ไล่เฉดนุ่ม ๆ */
-background-color: #e6e6e6;}
+
 
 .logo {
   width: clamp(120px, 15vw, 180px);
